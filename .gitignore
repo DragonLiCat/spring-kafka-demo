@@ -1,6 +1,20 @@
 # Compiled class file
 *.class
 
+#idea file
+.idea/
+.mvn/
+*.iml
+*.cmd
+.settings/
+.project
+.classpath
+ 
+#java file
+logs/
+log/
+target/
+
 # Log file
 *.log
 
