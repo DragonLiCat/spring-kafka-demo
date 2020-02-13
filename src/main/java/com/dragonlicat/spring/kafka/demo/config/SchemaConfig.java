@@ -7,7 +7,7 @@
  * 
 */  
   
-package com.dragonlicat.spring.kafka.demo.factory;
+package com.dragonlicat.spring.kafka.demo.config;
 
 import org.springframework.context.annotation.Configuration;
 
